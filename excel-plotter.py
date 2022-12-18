@@ -49,7 +49,7 @@ st.set_page_config(
     layout = 'wide',
 )
 
-st.title('Data analysis of Excel documents 📈')
+st.title('Data analysis of Excel documents - YEET 📈')
 st.markdown('---')
 
 excel_file = st.file_uploader('Input the Excel-file:', type='xlsx', accept_multiple_files=False)
